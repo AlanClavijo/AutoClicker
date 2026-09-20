@@ -1,0 +1,19 @@
+# Python virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python bytecode / build files
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+*.spec
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Large build outputs (optional: keep dist out of git, release binaries belong in GitHub Releases)
+dist/
