@@ -6,12 +6,12 @@ Una aplicación de escritorio moderna, rápida e intuitiva para Windows escrita 
 
 ## 📥 Descarga Directa
 
-[![Descargar para Windows](https://img.shields.io/badge/Descargar-AutoClicker.exe-blue?style=for-the-badge&logo=windows&logoColor=white)](../../releases/latest)
+[![Descargar para Windows](https://img.shields.io/badge/Descargar-AutoClicker.exe-blue?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/AlanClavijo/AutoClicker/releases/latest)
 
 > 🚀 **¿Cómo instalar?**
-> 1. Haz clic en el botón de arriba o ve a la sección de [Releases](../../releases/latest).
+> 1. Haz clic en el botón de arriba o ve a [Releases](../../releases/latest).
 > 2. Descarga el archivo **`AutoClicker.exe`** (no requiere instalar Python ni dependencias adicionales).
-> 3. Haz doble clic en el archivo ejecutado para usar la aplicación.
+> 3. Haz doble clic en el ejecutable para usar la aplicación.
 
 ---
 
@@ -37,7 +37,7 @@ Si deseas ejecutar o modificar el código fuente:
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/TU_USUARIO/AutoClicker.git
+git clone https://github.com/AlanClavijo/AutoClicker.git
 cd AutoClicker
 
 # 2. Crear entorno virtual e instalar dependencias
